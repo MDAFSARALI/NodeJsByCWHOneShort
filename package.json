@@ -1,0 +1,15 @@
+{
+  "name": "afsar",
+  "version": "1.0.0",
+  "description": "\"This is build with the help of npm init command \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"Codewithharry\"",
+    "\"Nodejs\""
+  ],
+  "author": "Afsar",
+  "license": "ISC"
+}
